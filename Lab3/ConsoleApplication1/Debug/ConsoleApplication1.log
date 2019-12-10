@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+a:\авс(3 курс)\лабораторная работа №3\consoleapplication1\consoleapplication1.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+a:\авс(3 курс)\лабораторная работа №3\consoleapplication1\consoleapplication1.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> A:\АВС(3 курс)\Лабораторная работа №3\Debug\ConsoleApplication1.exe

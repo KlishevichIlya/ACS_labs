@@ -1,0 +1,27 @@
+﻿  ConsoleApplication3.cpp
+a:\авс(3 курс)\лабораторная работа №2\задание 2\consoleapplication3\lim_atomic_queue.h(29): warning C4018: <: несоответствие типов со знаком и без знака
+a:\авс(3 курс)\лабораторная работа №2\задание 2\consoleapplication3\consoleapplication3.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+  a:\авс(3 курс)\лабораторная работа №2\задание 2\consoleapplication3\consoleapplication3.cpp(43): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Task<queue_mutex>(Q *)"
+          with
+          [
+              Q=queue_mutex
+          ]
+a:\авс(3 курс)\лабораторная работа №2\задание 2\consoleapplication3\consoleapplication3.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+a:\авс(3 курс)\лабораторная работа №2\задание 2\consoleapplication3\consumer.h(54): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  a:\авс(3 курс)\лабораторная работа №2\задание 2\consoleapplication3\consumer.h(53): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  a:\авс(3 курс)\лабораторная работа №2\задание 2\consoleapplication3\consoleapplication3.cpp(33): note: выполняется компиляция ссылки на экземпляр шаблон функции "int Consumer<Q>::getCounter(void)"
+          with
+          [
+              Q=queue_mutex
+          ]
+  a:\авс(3 курс)\лабораторная работа №2\задание 2\consoleapplication3\consoleapplication3.cpp(21): note: выполняется компиляция ссылки на экземпляр шаблон класс "Consumer<Q>"
+          with
+          [
+              Q=queue_mutex
+          ]
+  a:\авс(3 курс)\лабораторная работа №2\задание 2\consoleapplication3\consoleapplication3.cpp(43): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Task<queue_mutex>(Q *)"
+          with
+          [
+              Q=queue_mutex
+          ]
+  ConsoleApplication3.vcxproj -> A:\АВС(3 курс)\Лабораторная работа №2\Задание 2\Debug\ConsoleApplication3.exe
